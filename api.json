@@ -1,0 +1,51 @@
+{
+  "id": "nachzehrer",
+  "name": "Nachzehrer",
+  "category": "European Undead",
+  "type": "Vampire Variant",
+  "version": "1.0.0",
+  "last_updated": "2026-01-14",
+  "locations": [
+    {
+      "name": "Northern Germany",
+      "region": "Central Europe",
+      "country": "Germany",
+      "coordinates": null
+    }
+  ],
+  "origin": {
+    "culture": "Germanic",
+    "period": "Medieval to Early Modern",
+    "source": "German Folklore and Folk Belief"
+  },
+  "description": {
+    "short": "German vampire variant that chews its burial shroud and kills family members from the grave, strongly associated with plague and epidemic disease.",
+    "long": "The nachzehrer (literally 'after-devourer') is a type of vampire or revenant from German folklore, particularly from northern regions. Unlike the aristocratic vampires of later fiction, the nachzehrer was believed to remain in its grave, chewing on its burial shroud and its own flesh. This act of consumption was thought to kill family members above ground, who would waste away as the nachzehrer consumed them psychically. The belief was strongly associated with plague and epidemic disease—when families died in succession, nachzehrer activity was suspected. Corpses showing signs of movement or bloating (natural decomposition processes) were identified as nachzehrer. The creature represents early European attempts to understand contagious disease through supernatural framework, with prevention methods including placing objects in the corpse's mouth or securing the grave."
+  },
+  "characteristics": [
+    "Chews burial shroud in grave",
+    "Consumes own flesh",
+    "Kills family members remotely",
+    "Associated with plague and disease",
+    "Remains in grave (doesn't physically rise)",
+    "Causes wasting death in relatives",
+    "Bloated or moving corpse",
+    "Northern German origin"
+  ],
+  "status": {
+    "confirmed": false,
+    "explanation": "Folkloric belief from German tradition, represents cultural interpretation of plague contagion and natural decomposition processes",
+    "evidence_level": "Folklore"
+  },
+  "cultural_impact": {
+    "significance": "Represents pre-scientific understanding of contagious disease and death, part of broader European vampire folklore",
+    "modern_usage": "Studied in folklore and vampire mythology research, occasional appearance in horror media",
+    "folklore_type": "Traditional Folk Belief"
+  },
+  "see_also": [
+    "vampires",
+    "revenant",
+    "plague-beliefs",
+    "german-folklore"
+  ]
+}
