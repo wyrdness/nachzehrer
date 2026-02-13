@@ -1,51 +1,126 @@
 {
-  "id": "nachzehrer",
-  "name": "Nachzehrer",
-  "category": "European Undead",
-  "type": "Vampire Variant",
-  "version": "1.0.0",
-  "last_updated": "2026-01-14",
-  "locations": [
-    {
-      "name": "Northern Germany",
-      "region": "Central Europe",
-      "country": "Germany",
-      "coordinates": null
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/nachzehrer",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
     }
-  ],
-  "origin": {
-    "culture": "Germanic",
-    "period": "Medieval to Early Modern",
-    "source": "German Folklore and Folk Belief"
   },
-  "description": {
-    "short": "German vampire variant that chews its burial shroud and kills family members from the grave, strongly associated with plague and epidemic disease.",
-    "long": "The nachzehrer (literally 'after-devourer') is a type of vampire or revenant from German folklore, particularly from northern regions. Unlike the aristocratic vampires of later fiction, the nachzehrer was believed to remain in its grave, chewing on its burial shroud and its own flesh. This act of consumption was thought to kill family members above ground, who would waste away as the nachzehrer consumed them psychically. The belief was strongly associated with plague and epidemic disease—when families died in succession, nachzehrer activity was suspected. Corpses showing signs of movement or bloating (natural decomposition processes) were identified as nachzehrer. The creature represents early European attempts to understand contagious disease through supernatural framework, with prevention methods including placing objects in the corpse's mouth or securing the grave."
+  "phenomenon": {
+    "id": "nachzehrer",
+    "name": "Nachzehrer",
+    "aliases": [],
+    "category": "EUROPEAN_UNDEAD",
+    "subcategory": "of vampire or revenant from German folklore, particularly northern Germany. Unlike the popular image of vampires leaving their graves to bite victims, the nachzehrer was believed to remain in the grave, chewing its burial shroud and consuming its own flesh, thereby causing family members to waste away and die.",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The **nachzehrer** (literally \\\"after-devourer\\\") is a type of vampire or revenant from German folklore, particularly northern Germany.",
+      "full": "The **nachzehrer** (literally \\\"after-devourer\\\") is a type of vampire or revenant from German folklore, particularly northern Germany. Unlike the popular image of vampires leaving their graves to bite victims, the nachzehrer was believed to remain in the grave, chewing its burial shroud and consuming its own flesh, thereby causing family members to waste away and die."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
   },
-  "characteristics": [
-    "Chews burial shroud in grave",
-    "Consumes own flesh",
-    "Kills family members remotely",
-    "Associated with plague and disease",
-    "Remains in grave (doesn't physically rise)",
-    "Causes wasting death in relatives",
-    "Bloated or moving corpse",
-    "Northern German origin"
-  ],
-  "status": {
-    "confirmed": false,
-    "explanation": "Folkloric belief from German tradition, represents cultural interpretation of plague contagion and natural decomposition processes",
-    "evidence_level": "Folklore"
+  "classification": {
+    "taxonomy": {
+      "category": "EUROPEAN_UNDEAD",
+      "type": "of vampire or revenant from German folklore, particularly northern Germany. Unlike the popular image of vampires leaving their graves to bite victims, the nachzehrer was believed to remain in the grave, chewing its burial shroud and consuming its own flesh, thereby causing family members to waste away and die.",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
   },
-  "cultural_impact": {
-    "significance": "Represents pre-scientific understanding of contagious disease and death, part of broader European vampire folklore",
-    "modern_usage": "Studied in folklore and vampire mythology research, occasional appearance in horror media",
-    "folklore_type": "Traditional Folk Belief"
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
   },
-  "see_also": [
-    "vampires",
-    "revenant",
-    "plague-beliefs",
-    "german-folklore"
-  ]
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }
